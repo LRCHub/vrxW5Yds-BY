@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "エウレカ",
+  "base_artist": "なとり",
+  "createdAt": "2026-02-15T03:35:40.513952Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "エウレカ",
+      "artist": "なとり",
+      "has_synced": true,
+      "path": "select/01_エウレカ_なとり.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "エウレカ",
+      "artist": "柊キライ",
+      "has_synced": true,
+      "path": "select/02_エウレカ_柊キライ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "エウレカ",
+      "artist": "菅叶和",
+      "has_synced": true,
+      "path": "select/03_エウレカ_菅叶和.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "エウレカ",
+      "artist": "Hiiragi Kirai",
+      "has_synced": true,
+      "path": "select/04_エウレカ_Hiiragi_Kirai.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "エウレカ",
+      "artist": "natori",
+      "has_synced": false,
+      "path": "select/05_エウレカ_natori.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "エウレカ",
+      "artist": "なとり",
+      "has_synced": false,
+      "path": "select/pl_01_エウレカ_なとり.txt"
+    }
+  ]
+}
